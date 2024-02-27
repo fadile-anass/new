@@ -40,6 +40,7 @@ const Weather = () => {
             <button onClick={() => fetchData()}>
                 <FaSearch></FaSearch>
             </button>
+            <div><p>ex:casablanca</p></div>
         </div>
 
         {
